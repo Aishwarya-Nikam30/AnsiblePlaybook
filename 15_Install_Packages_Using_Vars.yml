@@ -1,4 +1,4 @@
-#This playbbok will install vim,unzip,zip,wget
+#This playbook will install vim,unzip,zip,wget
 ---
 - hosts: localhost
   become: true
