@@ -12,7 +12,7 @@ $ ansible-playbook playbook.yml -vvv
 ```
 $ ansible-playbook --help
 ```
-### To Check syntax of a playbook
+### To Check syntax of playbook
 ```
 $ ansible-playbook playbook.yml --syntax-check
 ```
